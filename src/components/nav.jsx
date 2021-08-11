@@ -65,7 +65,7 @@ const Nav = () => {
         )}
       </button>
       <a
-        href="/full_stack_dev-cristian_ariza-resume.pdf"
+        href="/software_dev-cristian_ariza-resume.pdf"
         className="text-lg text-gray-800 dark:text-gray-100 font-semibold hover:text-black dark:hover:text-white mr-4"
       >
         Resume
