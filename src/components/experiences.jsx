@@ -19,7 +19,10 @@ const Experiences = () => {
             May 2021 to Present
           </h2>{" "}
           <h2 className="text-lg text-gray-800 dark:text-gray-100 font-semibold">
-            • Working with React.
+            • Working in a worldwide remote team at Avanade (Microsoft + Accenture).            
+            • Finding security vulnerabilities with Python.
+            • Meeting deadlines proposed by managers.
+            • Developed using React, Redux, Node, and Express.
           </h2>
         </div>
       </div>{" "}
